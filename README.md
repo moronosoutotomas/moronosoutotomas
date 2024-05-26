@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning tailwindcss<br>🎯 Goals: work as full time developer<br>🎲 Fun fact: XD</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning tailwindcss<br>🎯 Goals: work as full time developer</p>
 
 ###
 
