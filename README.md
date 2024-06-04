@@ -50,6 +50,7 @@
 
 ###
 
-<p align="left">https://ko-fi.com/tomasmoronosouto<br><br>https://buymeacoffee.com/tomasmorono</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1YK0NX)
+<p align="left">https://buymeacoffee.com/tomasmorono</p>
 
 ###
