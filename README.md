@@ -51,6 +51,5 @@
 ###
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1YK0NX)
-<p align="left">https://buymeacoffee.com/tomasmorono</p>
 
 ###
