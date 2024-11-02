@@ -1,14 +1,10 @@
-<div align="right">
-  <img src="https://profile-counter.glitch.me/tomas/count.svg?"  />
-</div>
-
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Tomás and I'm a developer student, from Galicia/Spain</p>
+<p align="left">My name is Tomás and I'm a web developer student, from Galicia/Spain</p>
 
 ###
 
@@ -16,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning PHP<br>🎯 Goals: work as full time developer</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning PHP and AWS<br>🎯 Goals: work as full time developer</p>
 
 ###
 
@@ -24,7 +20,10 @@
 
 ###
 <div align="left">
-  
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,mysql,bash,git,bootstrap,nodejs,docker&theme=dark)](https://skillicons.dev)
+
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   
@@ -36,10 +35,7 @@
       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" /> -->
-  
+    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
   
@@ -53,6 +49,7 @@
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  -->
   
 </div>
 
