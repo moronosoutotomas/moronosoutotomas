@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning PHP and AWS<br>🎯 Goals: work as full time developer</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning PHP, JS and AWS<br>🎯 Goals: work as full time developer</p>
 
 ###
 
